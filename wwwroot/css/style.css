@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.navbar a {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.formulario{
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(95, 209, 162);
+    padding: 8px;
+    flex-direction: column;
+    width: 400px;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 16px;
+    height: auto;
+}
+
+.formulario h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    color: rgb(170, 14, 79);
+    width: auto;
+    height: auto;
+}
+
+.formulario h2{
+    font-size: 20px;
+    color:rgb(11, 11, 68);
+    margin-bottom: 35px;
+    width: auto;
+    height: auto;
+}
+.formulario h3{
+    font-size: 15px;
+    color: black;
+    margin-bottom: 25px;
+    width: auto;
+    height: auto;
+}
+
+.formulario p {
+    font-size: 14px;
+    margin-bottom: 10px;
+    width: auto;
+    height: auto;
+}
+
+.btn {
+    background-color: #2f5969 ;
+    border: 2px solid;
+    cursor: pointer;
+    width: 170px;
+    padding: 10px;
+    outline: none;
+    text-align: center;   
+}
+
+.btn:hover {
+    color: rgb(172, 32, 90);
+}
+
+ 
+.imagen1{
+    width: 350px;
+    height: 400px;
+    float: left;
+    margin-top: 150px ;
+    border-radius: 15px;
+    margin-left: -10px;
+}
+
+.imagen2 {
+    width: 350px;
+    height: 400px;
+    float: right;
+    padding: -15px;
+    margin-top: 150px;
+    border-radius: 15px;
+    margin-right: -20%;
+}
+
+.contend {
+   
+    margin-bottom: 15px;
+    color: black;
+    font-size: 12px;
+    width: 350px;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+i{
+    font-size: 25px;
+}
+
+p{
+    font-size: 15px;
+}
+
+a:hover {
+    color: rgb(172, 32, 90) !important;
+}
